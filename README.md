@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-c%c3%a2ndido/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/douglas-c%c3%a2ndido/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/douglas_mscs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/douglas_mscs/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglas-cândido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglas-cândido" height="30" width="40" /></a>
+<a href="https://instagram.com/douglas_mscs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas_mscs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglascandido&show_icons=true&locale=en&layout=compact" alt="douglascandido" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglascandido&show_icons=true&locale=en" alt="douglascandido" /></p>
+
 
 ![alt text](https://cdn.shopify.com/s/files/1/0747/3829/products/mNS0418_4a09ee7c-c302-43c9-911d-1e3f39d800e3_1024x1024.jpg?v=1571444642)
 
