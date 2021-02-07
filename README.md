@@ -1,6 +1,6 @@
 # Douglas fookin' Cândido's place ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
 ## Hi there 👋, welcome to my humble repositories. 
-### I believe I am not that talented in programming, but I am a persistent bastard. I'm always willing to put the maximum effort on my codes. As many I'm tryin' to make the best out of the cards I was given. 
+### I believe I am not that talented in programming, but I am a persistent bastard. I'm always willing to put the maximum effort on my codes. As many, I'm tryin' to make the best out of the cards I was given. 
 ### Remember always to 
 > take your time, don't live too fast. Troubles will come and they will pass.
 
