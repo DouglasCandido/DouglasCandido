@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
 - ⚡ Fun fact: The Earth is flat. We should all believe in this, because these are the wise words of the great defender of human race and the last Earth's hero, a demon slayer named Super Xandão.
 
-![alt text](https://ih1.redbubble.net/image.824855042.2807/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
+![alt text](https://cdn.shopify.com/s/files/1/0747/3829/products/mNS0418_4a09ee7c-c302-43c9-911d-1e3f39d800e3_1024x1024.jpg?v=1571444642)
 
 <!--
 **DouglasCandido/DouglasCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
