@@ -9,10 +9,6 @@
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
 - ⚡ Fun fact: The Earth is flat. We should all believe in this, because these are the wise words of the great defender of human race and the last Earth's hero, a demon slayer named Super Xandão.
 
-<audio controls>
-  <source src="https://www.computerhope.com/jargon/m/example.mp3" type="audio/mpeg"/>
-</audio>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglascandido&label=Profile%20views&color=0e75b6&style=flat" alt="douglascandido" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglascandido" alt="douglascandido" /></a> </p>
