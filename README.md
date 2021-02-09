@@ -1,7 +1,4 @@
 # Douglas Cândido's place ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
-<audio controls>
-  <source src="https://www.computerhope.com/jargon/m/example.mp3" type="audio/mpeg"/>
-</audio>
 ## Hi there 👋, welcome to my humble repositories. 
 ### I believe I am not that talented in programming, but I am a persistent bastard. I'm always willing to put the maximum effort on my codes. As many, I'm tryin' to make the best out of the cards I was given. 
 ### Remember always to 
@@ -11,6 +8,10 @@
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
 - ⚡ Fun fact: The Earth is flat. We should all believe in this, because these are the wise words of the great defender of human race and the last Earth's hero, a demon slayer named Super Xandão.
+
+<audio controls>
+  <source src="https://www.computerhope.com/jargon/m/example.mp3" type="audio/mpeg"/>
+</audio>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglascandido&label=Profile%20views&color=0e75b6&style=flat" alt="douglascandido" /> </p>
 
