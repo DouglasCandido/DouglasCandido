@@ -3,6 +3,8 @@
 ### I believe I am not that talented in programming, but I am a headstrong bastard. I'm always willing to put the maximum brute effort on my codes. 
 ### Remember always to 
 > take your time, don't live too fast. Troubles will come and they will pass.
+### Remember those who helped you in your journey.
+### Remember the one who is above us all.
 
 - 🔭 I’m currently working on a software whose purpose is to promote small events in a radius of range and search within the city.
 - 🌱 I’m currently learning Web Development.
