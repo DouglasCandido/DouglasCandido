@@ -26,9 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglascandido&show_icons=true&locale=en" alt="douglascandido" /></p>
 
-
-![alt text](https://cdn.shopify.com/s/files/1/0747/3829/products/mNS0418_4a09ee7c-c302-43c9-911d-1e3f39d800e3_1024x1024.jpg?v=1571444642)
-
 <!--
 **DouglasCandido/DouglasCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
