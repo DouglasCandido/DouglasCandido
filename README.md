@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on a software whose purpose is to promote small events in a radius of range and search within the city.
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
-- ⚡ Fun fact: The Earth is flat. We should all believe in this, because these are the wise words of the great defender of human race and the last Earth's hero, a demon slayer named Super Xandão.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglascandido&label=Profile%20views&color=0e75b6&style=flat" alt="douglascandido" /> </p>
 
