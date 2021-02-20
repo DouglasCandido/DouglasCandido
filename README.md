@@ -1,8 +1,9 @@
 # Douglas Cândido's place ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
+
 ## Hi there 👋, welcome to my humble repositories. 
-### Remember always to 
-> take your time, don't live too fast. Troubles will come and they will pass.
-### Remember those who helped you in your journey.
+
+> Take your time, don't live too fast. Troubles will come and they will pass.
+> 
 ### Remember the one who is above us all.
 
 - 🌱 I’m currently learning Web Development.
