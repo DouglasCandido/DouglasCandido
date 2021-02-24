@@ -10,7 +10,11 @@
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
 - 📫 How to reach me **douglas.candido1997@gmail.com**
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglascandido" alt="douglascandido" /></a> </p>
+-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=douglascandido&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
