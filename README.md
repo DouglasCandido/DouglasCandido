@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
+- 📫 How to reach me **douglas.candido1997@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglascandido" alt="douglascandido" /></a> </p>
 
