@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglascandido&show_icons=true&locale=en&layout=compact" alt="douglascandido" /></p>
 
-<br />
+<p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglascandido&show_icons=true&locale=en" alt="douglascandido" /></p>
 
