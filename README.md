@@ -3,8 +3,6 @@
 ## Hi there 👋, welcome to my humble repositories. 
 
 > Take your time, don't live too fast. Troubles will come and they will pass.
-> 
-### Remember the one who is above us all.
 
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help with everything, any new information and knowledge is welcome.
