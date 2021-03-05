@@ -2,8 +2,6 @@
 
 ## Hi there 👋, welcome to my humble repositories. 
 
-> Take your time, don't live too fast. Troubles will come and they will pass.
-
 - 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for advice with everything, any new information and knowledge is welcome.
 - 📫 How to reach me **douglas.candido1997@gmail.com**
