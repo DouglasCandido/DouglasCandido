@@ -1,6 +1,6 @@
 # Douglas Cândido's Repositories ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
 
-## Hi there 👋, welcome to my humble repositories. 
+## Hi 👋, welcome to my humble repositories. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=douglascandido&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
