@@ -2,6 +2,8 @@
 
 ## Hi 👋, welcome to my humble repositories. 
 
+- 📫 How to reach me: douglas.candido1997@gmail.com
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=douglascandido&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
