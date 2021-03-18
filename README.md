@@ -1,4 +1,6 @@
-# Douglas Cândido's Repositories ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
+# Douglas Cândido's Repositories ![alt text](https://www.deviantart.com/chronosun9/art/rock-lee-s-primary-lotus-92322460)
+
+<!-- https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif -->
 
 ## Hi 👋, welcome to my humble repositories. 
 
