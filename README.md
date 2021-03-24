@@ -6,11 +6,12 @@
 
 - 📫 How to contact me: douglas.candido1997@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=douglascandido&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglas-cândido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglas-cândido" height="30" width="40" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=douglascandido&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 <a href="https://instagram.com/douglas_mscs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas_mscs" height="30" width="40" /></a>
 -->
