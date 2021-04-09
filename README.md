@@ -1,4 +1,4 @@
-# Douglas Cândido's Repositories ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
+# My GitHub profile ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
 
 ## Hi 👋, welcome to my humble repositories. 
 
