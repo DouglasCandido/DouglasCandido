@@ -1,6 +1,4 @@
-# Douglas Cândido's Repositories ![alt text](https://i.pinimg.com/originals/e0/0d/b6/e00db644c81555a495ea27c8225727fb.gif)
-
-<!-- https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif -->
+# Douglas Cândido's Repositories ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
 
 ## Hi 👋, welcome to my humble repositories. 
 
