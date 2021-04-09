@@ -1,6 +1,4 @@
-# My GitHub profile ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
-
-## Hi 👋, welcome to my humble repositories. 
+# Hi 👋, welcome to my humble repositories ![alt text](https://thumbs.gfycat.com/FrayedSeriousIchneumonfly-max-1mb.gif)
 
 - 📫 How to contact me: douglas.candido1997@gmail.com
 
